@@ -1,0 +1,8 @@
+java.lang.Object@6d03e736 avec retour à la ligne
+un nombre entier : 12 | un character : c | un float : 18,970000
+un nombre entier : 12 | un character : c | un float : 18,970000 
+java.lang.Object@568db2f2 avec retour à la ligne
+un nombre entier : 12 | un character : c | un float : 18,970000
+un nombre entier : 12 | un character : c | un float : 18,970000 
+salut comment va?
+salut comment va?W
